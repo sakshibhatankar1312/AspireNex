@@ -12,8 +12,7 @@ Evaluation metrics and visualization of classification results.
 Tools and Libraries:
 Python, pandas, scikit-learn, Matplotlib, seaborn, NLTK, TextBlob, WordCloud.
 
-Dataset Source:
-IMDb Genre Classification Dataset
+
 
 Task 2: Credit Card Fraud Detection
 Description:
@@ -28,5 +27,4 @@ Evaluation metrics and visualization of model performance.
 Tools and Libraries:
 Python, pandas, scikit-learn, Matplotlib, seaborn.
 
-Dataset Source:
-Fraud Detection Dataset
+t
