@@ -12,6 +12,9 @@ Evaluation metrics and visualization of classification results.
 Tools and Libraries:
 
 Python, pandas, scikit-learn, Matplotlib, seaborn, NLTK, TextBlob, WordCloud.
+
+
+
 Task 2: Spam SMS Detection
 
 Description: This repository contains code for building a machine learning model to detect spam SMS messages using the SMS Spam Collection Dataset. The dataset contains SMS messages labeled as 'ham' (legitimate) or 'spam'. Techniques such as data preprocessing, feature extraction, and model training with algorithms like Support Vector Machines and Linear Discriminant Analysis are employed. The repository provides insights into the distribution of spam vs non-spam messages and visualizations of message data.
